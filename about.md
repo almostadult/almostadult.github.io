@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The blog of Natalie Valdez, an aspiring journalist.
 
-### More Information
+### Questions? Want to get in touch?
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[youarefullofdetermination@gmail.com](mailto:youarefullofdetermination@gmail.com)
